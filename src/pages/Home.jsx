@@ -45,9 +45,9 @@ function Home() {
 				</div>
 			</section>
 
-			<Tiers />
+			{/* <Tiers /> */}
 
-			<FAQ />
+			{/* <FAQ /> */}
 
 			<section className="bg-gray-50 dark:bg-gray-800">
 				<div className="max-w-screen-xl px-4 py-8 mx-auto lg:py-16 lg:px-6">
